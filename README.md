@@ -104,9 +104,3 @@ make re     # Full recompile
 - Pointer arithmetic
 - Static library creation (`ar`)
 - Writing clean, normed C code
-
----
-
-## Author
-
-**Goschad** — 42 School Project
